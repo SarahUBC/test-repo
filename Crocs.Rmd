@@ -15,7 +15,7 @@ teeth <- "VVV"
 teeth
 ```
 ```{r}
-ticktock <- "Captaih Hook croc"
-ticktock
+tick <- "Captaih Hook croc"
+tick
 ```
 
