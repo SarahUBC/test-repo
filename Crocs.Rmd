@@ -1,0 +1,17 @@
+---
+title: "Crocs"
+author: "Sarah Klain"
+date: "9/9/2021"
+output: html_document
+---
+
+Test repository for CAS
+```{r}
+crocs <- 3 + 5
+crocs
+```
+```{r}
+teeth <- "VVV"
+teeth
+```
+
