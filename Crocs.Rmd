@@ -17,5 +17,8 @@ teeth
 ```{r}
 tick <- "Captaih Hook croc"
 tick
+
+tock <- 3 * 3
+tock
 ```
 
