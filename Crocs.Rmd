@@ -14,4 +14,8 @@ crocs
 teeth <- "VVV"
 teeth
 ```
+```{r}
+ticktock <- "Captaih Hook croc"
+ticktock
+```
 
